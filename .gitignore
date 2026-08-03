@@ -1,13 +1,5 @@
 node_modules/
 dist/
 *.log
-*.csv
-*.json
-!package.json
-!tsconfig.json
-!README.md
-!src/**
-!tf2/**
-!fetch-game-schema.cmd
 SteamApi.txt
 .env
